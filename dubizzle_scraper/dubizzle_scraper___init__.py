@@ -1,0 +1,1 @@
+# Makes dubizzle_scraper a Python module
